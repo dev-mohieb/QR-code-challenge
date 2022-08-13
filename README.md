@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   I thought this was an easy challenge, but it took me about 20 minutes to finish it. I didn't expect it'll take me this long.
   
 ### Links
-  - Solution URL: [Add solution URL here](https://github.com/dev-mohieb/QR-code-challenge)
-  - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+  - Solution URL: https://github.com/dev-mohieb/QR-code-challenge
+  - Live Site URL: https://mohieb-qr-code-challenge.netlify.app/
 
 ## My process
   I built the HTML out of three sections; a 'div.card', 'div.image', and a 'div.info'. 
